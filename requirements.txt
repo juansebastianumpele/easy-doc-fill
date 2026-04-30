@@ -1,0 +1,5 @@
+pandas
+python-docx
+docxtpl
+ttkbootstrap
+pyinstaller
